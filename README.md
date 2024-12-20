@@ -41,10 +41,10 @@ Beauty Secret est un site e-commerce créé avec WordPress et WooCommerce. Il es
 ### 4. Configuration du projet
 1. Cloner ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/beauty_secret.git
+   git clone https://github.com/lailakhartoum/Beauty-Secret.git
    ```
-2. Copier les fichiers dans le dossier `C:\xampp\htdocs\beauty_secret`.
-3. Accéder à `http://localhost/beauty_secret` pour voir le site en action.
+2. Copier les fichiers dans le dossier `C:\xampp\htdocs\wordpress`.
+3. Accéder à `http://localhost/wordpress` pour voir le site en action.
 
 ### 5. Identifiants administrateur
 - **URL d'administration** : `http://localhost/wordpress/wp-admin`
@@ -69,9 +69,6 @@ Beauty Secret est un site e-commerce créé avec WordPress et WooCommerce. Il es
 
 ## Contribution
 Nous accueillons toutes suggestions pour améliorer ce projet. Merci de respecter les bonnes pratiques de développement et de documenter vos modifications.
-
-## Licence
-Ce projet est sous licence [MIT](LICENSE).
 
 ---
 Merci de soutenir notre vision en explorant et en partageant **Beauty Secret**, où la beauté marocaine rencontre l'innovation moderne.
