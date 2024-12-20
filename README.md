@@ -67,9 +67,6 @@ Beauty Secret est un site e-commerce créé avec WordPress et WooCommerce. Il es
    ```
 5. Créer une Pull Request pour intégrer vos modifications.
 
-## Contribution
-Nous accueillons toutes suggestions pour améliorer ce projet. Merci de respecter les bonnes pratiques de développement et de documenter vos modifications.
-
 ---
-Merci de soutenir notre vision en explorant et en partageant **Beauty Secret**, où la beauté marocaine rencontre l'innovation moderne.
+**Beauty Secret**
 
